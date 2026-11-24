@@ -1,0 +1,18 @@
+.image {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 16px;
+  background-color: #ead7d7;
+}
+
+.discount {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 10px 16px;
+}
+ 
