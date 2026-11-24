@@ -10,7 +10,7 @@ function App() {
       <Button text="submit"></Button>
       <Button text="cancel"></Button>
       <Button text="back"></Button>
-      <Box name="Username" isAdmin="true"></Box>
+      <Box name="Username" isAdmin={true}></Box>
     </div>
   );
 }
